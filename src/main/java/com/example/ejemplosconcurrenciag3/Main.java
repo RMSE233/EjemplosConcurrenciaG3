@@ -63,3 +63,6 @@ public class Main {
         }
     }
 }
+
+
+//synchronized protege los datos compartidos, mientras que no usarlo permite mayor concurrencia, pero puede generar inconsistencias si no existe otra protección.
